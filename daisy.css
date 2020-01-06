@@ -1,0 +1,11 @@
+/* this is an "id" selector */
+#one {
+  color: yellow;
+}
+
+/* this is a "class" selector */
+.special {
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+}
