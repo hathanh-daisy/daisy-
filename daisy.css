@@ -1,11 +1,39 @@
-/* this is an "id" selector */
-#one {
-  color: yellow;
+h1 {
+  text-transform: uppercase;
 }
 
-/* this is a "class" selector */
-.special {
-  color: blue;
-  font-weight: bold;
+/* ===================== michael's example =====================*/
+
+.title-row {
   text-align: center;
 }
+
+.body-row {
+
+}
+
+
+
+
+
+/* ============================================================= */
+
+#heading {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+div.right-property {
+  position: absolute;
+  right: 450px;
+}
+.bold-title {
+  font-weight: bold;
+}
+.italic-title {
+  font-style: italic;
+}
+ul.bullet-points {
+  list-style-type: square;
+}
+
